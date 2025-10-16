@@ -2,6 +2,7 @@
 
 #include "ofAppBaseWindow.h"
 #include "ofAppRunner.h"
+#include "ofUtils.h"
 #include "imgui.h"
 
 namespace ofxImGui
